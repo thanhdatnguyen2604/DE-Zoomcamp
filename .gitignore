@@ -1,0 +1,7 @@
+ny_taxi_postgres_data/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.venv
