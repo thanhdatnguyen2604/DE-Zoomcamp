@@ -42,7 +42,7 @@ WHERE year = 2020 AND month = 4
 ORDER BY service_type;
 ```
 
-The results were: green: {p97: 55.0, p95: 45.0, p90: 26.5} yellow: {p97: 31.5, p95: 25.5, p90: 19.0}
+**Answer**: green: {p97: 55.0, p95: 45.0, p90: 26.5} yellow: {p97: 31.5, p95: 25.5, p90: 19.0}
 
 ### Question 7: Top #Nth longest P90 travel time Location for FHV
 ```sql
