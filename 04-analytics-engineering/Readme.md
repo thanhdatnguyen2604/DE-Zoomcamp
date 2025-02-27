@@ -30,7 +30,7 @@ WHERE year = 2020
 ORDER BY service_type, yoy_growth_percentage ASC;
 ```
 
-The results showed that: green: {best: 2020/Q1, worst: 2020/Q2} yellow: {best: 2020/Q1, worst: 2020/Q2}
+**Answer**: green: {best: 2020/Q1, worst: 2020/Q2} yellow: {best: 2020/Q1, worst: 2020/Q2}
 
 ### Question 6: P97/P95/P90 Taxi Monthly Fare
 ```sql
