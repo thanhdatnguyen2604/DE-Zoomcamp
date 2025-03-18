@@ -16,12 +16,21 @@ This repository includes hands-on practice with:
 ## Repository Structure
 
 - `01-docker/`: Docker and PostgreSQL practice code
-  - Database setup
-  - Data ingestion scripts
-  - SQL queries
+  + Database setup
+  + Data ingestion scripts
+  + SQL queries
 - `01-terraform/`: Terraform practice with Google Cloud Platform
-  - Infrastructure setup
-  - Resource management
+  + Infrastructure setup
+  + Resource management
+- `02-workflow-orchestration`:
+
+- `03-data-warehouse`:
+
+- `04-analytics-engineering`:
+
+- `05-batch`:
+
+- `06-streaming`:
 
 ## Prerequisites
 
